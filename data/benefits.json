@@ -1,0 +1,6 @@
+[
+  { "id": "B-01", "name": "청년 주거비 지원(가상)", "monthlyValue": 20 },
+  { "id": "B-02", "name": "청년 교통비 지원(가상)", "monthlyValue": 10 },
+  { "id": "B-03", "name": "중소기업 청년 근속 장려금(가상)", "monthlyValue": 25 },
+  { "id": "B-04", "name": "지역 정착 지원금(가상)", "monthlyValue": 15 }
+]

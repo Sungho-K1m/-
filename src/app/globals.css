@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #14232d;
+  --color-ink-soft: #465662;
+  --color-ink-faint: #637380;
+  --color-line: #e1e6ea;
+  --color-track: #e9eef1;
+  --color-canvas: #f4f6f7;
+  --color-surface: #ffffff;
+
+  --color-brand: #0d6570;
+  --color-brand-strong: #094c55;
+  --color-brand-soft: #e3f0f1;
+
+  --color-match: #1d7442;
+  --color-match-bar: #2f9a5b;
+  --color-match-soft: #e2f2e8;
+  --color-mid: #845200;
+  --color-mid-bar: #d99a2b;
+  --color-mid-soft: #fbefd6;
+  --color-gap: #b2381b;
+  --color-gap-bar: #d9573a;
+  --color-gap-soft: #fbe4dc;
+
+  --color-notice: #634800;
+  --color-notice-soft: #fff3cc;
+
+  --font-sans: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui,
+    "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+}
+
+body {
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  word-break: keep-all;
+  overflow-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex min-h-12 items-center justify-center rounded-xl bg-brand px-5 font-semibold text-white transition-colors hover:bg-brand-strong focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-brand disabled:cursor-not-allowed disabled:bg-ink-faint/40;
+  }
+  .btn-secondary {
+    @apply inline-flex min-h-12 items-center justify-center rounded-xl border border-line bg-surface px-5 font-semibold text-ink transition-colors hover:border-ink-faint focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-brand;
+  }
+  .card {
+    @apply rounded-2xl border border-line bg-surface;
+  }
+  /* 체크박스·라디오를 감싼 label을 선택 칩으로 */
+  .chip {
+    @apply inline-flex min-h-11 cursor-pointer items-center rounded-full border border-line bg-surface px-4 text-[15px] transition-colors select-none hover:border-ink-faint has-checked:border-brand has-checked:bg-brand has-checked:text-white has-disabled:cursor-not-allowed has-disabled:opacity-40 has-disabled:hover:border-line has-focus-visible:outline-3 has-focus-visible:outline-offset-2 has-focus-visible:outline-brand;
+  }
+}

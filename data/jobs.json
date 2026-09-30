@@ -1,0 +1,572 @@
+[
+  {
+    "id": "J-001",
+    "company": "온의코스메틱(가상)",
+    "jobFamily": "마케팅",
+    "title": "SNS 브랜드 마케터",
+    "salaryMin": 260,
+    "salaryMax": 300,
+    "shift": false,
+    "commuteMinFromCampus": 20,
+    "weekendWork": false,
+    "requiredSkills": ["SNS 운영"],
+    "benefitIds": ["B-02"],
+    "explanations": {
+      "job": "자사 화장품 브랜드의 인스타그램·숏폼 채널을 기획하고 운영하는 자리예요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 채널 성과에 따라 인센티브가 붙어요.",
+      "conditions": "평일 주간 고정 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "입사 직후부터 계정 운영을 맡기 때문에 SNS 운영 경험을 봐요."
+    }
+  },
+  {
+    "id": "J-002",
+    "company": "소양정밀(가상)",
+    "jobFamily": "생산",
+    "title": "CNC 가공 오퍼레이터",
+    "salaryMin": 230,
+    "salaryMax": 250,
+    "shift": true,
+    "commuteMinFromCampus": 25,
+    "weekendWork": true,
+    "requiredSkills": ["도면 해독"],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "자동차·반도체 장비용 금속 부품을 CNC 장비로 가공하는 생산직이에요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 야간·주말 수당은 따로 계산돼요.",
+      "conditions": "주야 교대로 돌아가고 주말 특근이 있어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "가공 도면을 읽을 수 있어야 해서 도면 해독 역량을 요구해요."
+    }
+  },
+  {
+    "id": "J-003",
+    "company": "공지천물산(가상)",
+    "jobFamily": "영업",
+    "title": "수출 영업 담당",
+    "salaryMin": 220,
+    "salaryMax": 240,
+    "shift": false,
+    "commuteMinFromCampus": 15,
+    "weekendWork": false,
+    "requiredSkills": ["영어 회화"],
+    "benefitIds": ["B-01"],
+    "explanations": {
+      "job": "춘천 지역 가공식품을 해외 바이어에게 소개하고 수출 계약을 관리해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 청년 주거비 지원을 함께 받을 수 있어요.",
+      "conditions": "평일 주간 근무이고, 해외 화상 미팅이 가끔 저녁에 잡혀요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "바이어와 직접 통화하고 메일을 주고받아서 영어 회화가 필요해요."
+    }
+  },
+  {
+    "id": "J-004",
+    "company": "소양정밀(가상)",
+    "jobFamily": "생산",
+    "title": "품질관리(QC) 담당",
+    "salaryMin": 220,
+    "salaryMax": 260,
+    "shift": false,
+    "commuteMinFromCampus": 25,
+    "weekendWork": false,
+    "requiredSkills": ["품질관리"],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "완성된 부품의 치수와 외관을 검사하고 불량 원인을 기록하는 자리예요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 품질 관련 자격증을 따면 수당이 붙어요.",
+      "conditions": "교대 없이 평일 주간에만 근무하고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "측정 장비를 다루고 검사 기록을 남기는 품질관리 경험을 봐요."
+    }
+  },
+  {
+    "id": "J-005",
+    "company": "의암식품(가상)",
+    "jobFamily": "생산",
+    "title": "식품 생산라인 오퍼레이터",
+    "salaryMin": 210,
+    "salaryMax": 230,
+    "shift": true,
+    "commuteMinFromCampus": 30,
+    "weekendWork": true,
+    "requiredSkills": [],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "소스와 가공육 생산라인에서 설비를 운전하고 포장 상태를 확인해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 교대·주말 수당이 따로 붙어요.",
+      "conditions": "교대 근무이고 성수기에는 주말 근무가 있어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "작업은 입사 후 교육으로 익히기 때문에 따로 요구하는 역량이 없어요."
+    }
+  },
+  {
+    "id": "J-006",
+    "company": "의암식품(가상)",
+    "jobFamily": "영업",
+    "title": "유통 영업 담당",
+    "salaryMin": 230,
+    "salaryMax": 260,
+    "shift": false,
+    "commuteMinFromCampus": 30,
+    "weekendWork": false,
+    "requiredSkills": ["운전면허", "고객 응대"],
+    "benefitIds": ["B-02"],
+    "explanations": {
+      "job": "대형마트와 온라인몰 담당자를 만나 입점 상품과 행사 일정을 조율해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 외근 차량 유지비가 따로 나와요.",
+      "conditions": "평일 근무가 기본이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "거래처 방문이 잦아 운전면허와 고객 응대 경험을 봐요."
+    }
+  },
+  {
+    "id": "J-007",
+    "company": "봉의바이오(가상)",
+    "jobFamily": "생산",
+    "title": "바이오 원료 생산 기술직",
+    "salaryMin": 240,
+    "salaryMax": 280,
+    "shift": true,
+    "commuteMinFromCampus": 35,
+    "weekendWork": false,
+    "requiredSkills": ["품질관리"],
+    "benefitIds": ["B-01", "B-03"],
+    "explanations": {
+      "job": "건강기능식품 원료를 배양·정제하는 공정을 운전하고 기록해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 교대 수당과 청년 대상 지원이 함께 적용돼요.",
+      "conditions": "평일 교대로 운영되고 주말은 쉬어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "공정 기록과 샘플 검사를 맡아서 품질관리 역량을 요구해요."
+    }
+  },
+  {
+    "id": "J-008",
+    "company": "봉의바이오(가상)",
+    "jobFamily": "사무",
+    "title": "인사·총무 담당",
+    "salaryMin": 220,
+    "salaryMax": 250,
+    "shift": false,
+    "commuteMinFromCampus": 35,
+    "weekendWork": false,
+    "requiredSkills": ["엑셀", "문서 작성"],
+    "benefitIds": [],
+    "explanations": {
+      "job": "채용 공고 게시, 근태 관리, 사내 행사 준비 같은 인사·총무 업무를 맡아요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 해마다 연봉 협상이 있어요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "근태 자료 정리와 공문 작성이 많아 엑셀과 문서 작성 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-009",
+    "company": "공지천물산(가상)",
+    "jobFamily": "영업",
+    "title": "해외 온라인몰 영업",
+    "salaryMin": 230,
+    "salaryMax": 270,
+    "shift": false,
+    "commuteMinFromCampus": 15,
+    "weekendWork": false,
+    "requiredSkills": ["영어 회화", "엑셀"],
+    "benefitIds": ["B-01"],
+    "explanations": {
+      "job": "해외 온라인 마켓플레이스에 상품을 올리고 판매 채널을 관리해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 청년 주거비 지원을 함께 받을 수 있어요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "해외 고객 문의에 답하고 판매 실적을 정리해서 영어 회화와 엑셀이 필요해요."
+    }
+  },
+  {
+    "id": "J-010",
+    "company": "삼악기계(가상)",
+    "jobFamily": "생산",
+    "title": "기계 조립 기술직",
+    "salaryMin": 230,
+    "salaryMax": 260,
+    "shift": false,
+    "commuteMinFromCampus": 40,
+    "weekendWork": true,
+    "requiredSkills": ["도면 해독"],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "농기계용 감속기를 도면에 맞춰 조립하고 시운전해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 토요일 근무 수당이 붙어요.",
+      "conditions": "교대는 없지만 격주로 토요일 근무가 있어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "조립 순서를 도면으로 확인해야 해서 도면 해독 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-011",
+    "company": "삼악기계(가상)",
+    "jobFamily": "영업",
+    "title": "산업기계 기술영업",
+    "salaryMin": 240,
+    "salaryMax": 280,
+    "shift": false,
+    "commuteMinFromCampus": 40,
+    "weekendWork": false,
+    "requiredSkills": ["운전면허", "도면 해독"],
+    "benefitIds": ["B-04"],
+    "explanations": {
+      "job": "강원권 농가와 공장을 찾아가 기계 사양을 설명하고 견적을 내요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 지역 정착 지원금 대상이에요.",
+      "conditions": "평일 근무이고 외근이 많아요. 사무실은 대학가에서 약 {commute}분 거리예요.",
+      "skills": "고객사를 직접 방문해 도면으로 설명하기 때문에 운전면허와 도면 해독이 필요해요."
+    }
+  },
+  {
+    "id": "J-012",
+    "company": "후평전자(가상)",
+    "jobFamily": "생산",
+    "title": "전자부품 SMT 오퍼레이터",
+    "salaryMin": 220,
+    "salaryMax": 240,
+    "shift": true,
+    "commuteMinFromCampus": 15,
+    "weekendWork": true,
+    "requiredSkills": [],
+    "benefitIds": ["B-02"],
+    "explanations": {
+      "job": "기판에 전자부품을 실장하는 SMT 설비를 운전하고 불량을 걸러내요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 야간·주말 근무 수당이 따로 나와요.",
+      "conditions": "주야 교대이고 주문이 몰리면 주말 근무가 있어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "설비 운전은 입사 후 교육하기 때문에 따로 요구하는 역량이 없어요."
+    }
+  },
+  {
+    "id": "J-013",
+    "company": "후평전자(가상)",
+    "jobFamily": "IT",
+    "title": "생산 데이터 관리(MES)",
+    "salaryMin": 250,
+    "salaryMax": 290,
+    "shift": false,
+    "commuteMinFromCampus": 15,
+    "weekendWork": false,
+    "requiredSkills": ["데이터 분석", "엑셀"],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "생산관리시스템(MES)에 쌓이는 설비·불량 데이터를 정리하고 리포트를 만들어요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 중소기업 청년 근속 장려금 대상이에요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "불량률 추이를 분석해 보고하기 때문에 데이터 분석과 엑셀 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-014",
+    "company": "퇴계메디칼(가상)",
+    "jobFamily": "사무",
+    "title": "구매·자재 관리 사무",
+    "salaryMin": 220,
+    "salaryMax": 250,
+    "shift": false,
+    "commuteMinFromCampus": 20,
+    "weekendWork": false,
+    "requiredSkills": ["엑셀", "문서 작성"],
+    "benefitIds": [],
+    "explanations": {
+      "job": "의료기기 부품의 발주, 입고 확인, 재고 현황 관리를 맡아요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 해마다 연봉 협상이 있어요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "발주서와 재고표를 매일 다뤄서 엑셀과 문서 작성 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-015",
+    "company": "퇴계메디칼(가상)",
+    "jobFamily": "영업",
+    "title": "병원 영업 담당",
+    "salaryMin": 240,
+    "salaryMax": 280,
+    "shift": false,
+    "commuteMinFromCampus": 20,
+    "weekendWork": false,
+    "requiredSkills": ["운전면허", "고객 응대"],
+    "benefitIds": ["B-04"],
+    "explanations": {
+      "job": "강원권 병원과 의원을 방문해 의료기기를 소개하고 사용 교육을 도와요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 실적에 따른 인센티브가 있어요.",
+      "conditions": "평일 근무이고 외근 비중이 높아요. 사무실은 대학가에서 약 {commute}분 거리예요.",
+      "skills": "병원 방문이 잦아 운전면허와 고객 응대 경험을 봐요."
+    }
+  },
+  {
+    "id": "J-016",
+    "company": "우두농산(가상)",
+    "jobFamily": "생산",
+    "title": "농산물 가공·포장",
+    "salaryMin": 200,
+    "salaryMax": 220,
+    "shift": true,
+    "commuteMinFromCampus": 30,
+    "weekendWork": true,
+    "requiredSkills": [],
+    "benefitIds": ["B-04"],
+    "explanations": {
+      "job": "감자·옥수수 같은 지역 농산물을 세척·가공하고 포장해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 수확철 특근 수당이 붙어요.",
+      "conditions": "수확철에는 교대와 주말 근무가 있어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "작업은 현장에서 배우기 때문에 따로 요구하는 역량이 없어요."
+    }
+  },
+  {
+    "id": "J-017",
+    "company": "우두농산(가상)",
+    "jobFamily": "마케팅",
+    "title": "온라인 스토어 운영·마케팅",
+    "salaryMin": 220,
+    "salaryMax": 250,
+    "shift": false,
+    "commuteMinFromCampus": 30,
+    "weekendWork": true,
+    "requiredSkills": ["SNS 운영", "디자인 툴"],
+    "benefitIds": ["B-04"],
+    "explanations": {
+      "job": "자사 온라인 스토어의 상품 페이지를 만들고 SNS로 제철 상품을 알려요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 지역 정착 지원금 대상이에요.",
+      "conditions": "주중 하루를 쉬는 대신 주말 라이브 판매에 참여해요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "상세 페이지 제작과 채널 운영을 함께 해서 SNS 운영과 디자인 툴 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-018",
+    "company": "석사소프트(가상)",
+    "jobFamily": "IT",
+    "title": "웹 서비스 개발자(주니어)",
+    "salaryMin": 260,
+    "salaryMax": 300,
+    "shift": false,
+    "commuteMinFromCampus": 10,
+    "weekendWork": false,
+    "requiredSkills": ["웹 개발"],
+    "benefitIds": ["B-01"],
+    "explanations": {
+      "job": "지역 공공기관에 납품하는 예약·민원 웹 서비스를 개발하고 유지보수해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 청년 주거비 지원을 함께 받을 수 있어요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "입사 후 바로 기능 개발에 참여해서 웹 개발 경험을 봐요."
+    }
+  },
+  {
+    "id": "J-019",
+    "company": "석사소프트(가상)",
+    "jobFamily": "마케팅",
+    "title": "B2B 콘텐츠 마케터",
+    "salaryMin": 240,
+    "salaryMax": 270,
+    "shift": false,
+    "commuteMinFromCampus": 10,
+    "weekendWork": false,
+    "requiredSkills": ["SNS 운영", "영상 편집"],
+    "benefitIds": ["B-01"],
+    "explanations": {
+      "job": "자사 솔루션 도입 사례를 글과 짧은 영상으로 만들어 알리는 자리예요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 청년 주거비 지원을 함께 받을 수 있어요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "사례 영상을 직접 만들어 채널에 올려서 SNS 운영과 영상 편집 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-020",
+    "company": "온의코스메틱(가상)",
+    "jobFamily": "사무",
+    "title": "수출입 사무",
+    "salaryMin": 220,
+    "salaryMax": 250,
+    "shift": false,
+    "commuteMinFromCampus": 20,
+    "weekendWork": false,
+    "requiredSkills": ["영어 회화", "엑셀"],
+    "benefitIds": ["B-02"],
+    "explanations": {
+      "job": "화장품 수출 서류를 준비하고 선적 일정과 통관 진행 상황을 챙겨요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 청년 교통비 지원 대상이에요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "해외 거래처와 연락하고 서류 목록을 관리해서 영어 회화와 엑셀이 필요해요."
+    }
+  },
+  {
+    "id": "J-021",
+    "company": "구봉물류(가상)",
+    "jobFamily": "생산",
+    "title": "물류센터 입출고 담당",
+    "salaryMin": 210,
+    "salaryMax": 240,
+    "shift": true,
+    "commuteMinFromCampus": 25,
+    "weekendWork": true,
+    "requiredSkills": ["지게차 운전"],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "물류센터로 들어오고 나가는 화물을 확인하고 적재 위치를 관리해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 야간·주말 수당이 따로 나와요.",
+      "conditions": "주야 교대이고 주말 출고가 있어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "팔레트를 직접 옮기기 때문에 지게차 운전 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-022",
+    "company": "구봉물류(가상)",
+    "jobFamily": "사무",
+    "title": "배차·운영 사무",
+    "salaryMin": 210,
+    "salaryMax": 240,
+    "shift": false,
+    "commuteMinFromCampus": 25,
+    "weekendWork": true,
+    "requiredSkills": ["엑셀"],
+    "benefitIds": [],
+    "explanations": {
+      "job": "화물차 배차표를 짜고 기사님과 거래처 사이 일정을 조율해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 주말 근무는 대체휴무로 보상해요.",
+      "conditions": "교대는 없지만 주말 배차 당번이 돌아와요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "배차표와 운송 실적을 매일 정리해서 엑셀 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-023",
+    "company": "신북건자재(가상)",
+    "jobFamily": "생산",
+    "title": "건자재 생산설비 운전",
+    "salaryMin": 230,
+    "salaryMax": 270,
+    "shift": true,
+    "commuteMinFromCampus": 45,
+    "weekendWork": false,
+    "requiredSkills": ["전기 기초"],
+    "benefitIds": ["B-01", "B-03"],
+    "explanations": {
+      "job": "콘크리트 블록 생산설비를 운전하고 설비 이상을 점검해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 교대 수당과 청년 대상 지원이 함께 적용돼요.",
+      "conditions": "평일 교대이고 주말은 쉬어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "설비 전기 계통을 점검해야 해서 전기 기초 지식을 봐요."
+    }
+  },
+  {
+    "id": "J-024",
+    "company": "신북건자재(가상)",
+    "jobFamily": "영업",
+    "title": "건자재 납품 영업",
+    "salaryMin": 230,
+    "salaryMax": 260,
+    "shift": false,
+    "commuteMinFromCampus": 45,
+    "weekendWork": false,
+    "requiredSkills": ["운전면허"],
+    "benefitIds": ["B-04"],
+    "explanations": {
+      "job": "지역 건설 현장과 인테리어 업체를 찾아가 자재 납품을 맡아요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 지역 정착 지원금 대상이에요.",
+      "conditions": "평일 근무이고 현장 방문이 많아요. 사무실은 대학가에서 약 {commute}분 거리예요.",
+      "skills": "현장 방문이 잦아 운전면허가 필요해요."
+    }
+  },
+  {
+    "id": "J-025",
+    "company": "동면에너지(가상)",
+    "jobFamily": "생산",
+    "title": "태양광 설비 유지보수",
+    "salaryMin": 240,
+    "salaryMax": 280,
+    "shift": true,
+    "commuteMinFromCampus": 35,
+    "weekendWork": true,
+    "requiredSkills": ["전기 기초"],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "태양광 발전소의 모듈과 인버터를 점검하고 고장에 대응해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 비상 출동 수당이 따로 나와요.",
+      "conditions": "순환 교대이고 주말 비상 대기가 있어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "전기 설비를 직접 다뤄서 전기 기초 지식을 요구해요."
+    }
+  },
+  {
+    "id": "J-026",
+    "company": "동면에너지(가상)",
+    "jobFamily": "사무",
+    "title": "경영지원(회계) 담당",
+    "salaryMin": 230,
+    "salaryMax": 260,
+    "shift": false,
+    "commuteMinFromCampus": 35,
+    "weekendWork": false,
+    "requiredSkills": ["회계 기초", "엑셀"],
+    "benefitIds": [],
+    "explanations": {
+      "job": "전표 입력, 거래처 대금 정산, 월 결산 자료 준비를 맡아요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 해마다 연봉 협상이 있어요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "결산 자료를 직접 만들어서 회계 기초와 엑셀 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-027",
+    "company": "대룡산음료(가상)",
+    "jobFamily": "영업",
+    "title": "음료 유통 영업(강원권)",
+    "salaryMin": 220,
+    "salaryMax": 250,
+    "shift": false,
+    "commuteMinFromCampus": 40,
+    "weekendWork": false,
+    "requiredSkills": ["운전면허"],
+    "benefitIds": ["B-02"],
+    "explanations": {
+      "job": "강원권 편의점·마트 담당자를 만나 음료 입점과 진열을 관리해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 청년 교통비 지원 대상이에요.",
+      "conditions": "평일 근무이고 외근이 많아요. 사무실은 대학가에서 약 {commute}분 거리예요.",
+      "skills": "매장 방문이 잦아 운전면허가 필요해요."
+    }
+  },
+  {
+    "id": "J-028",
+    "company": "대룡산음료(가상)",
+    "jobFamily": "마케팅",
+    "title": "지역 브랜드 마케팅",
+    "salaryMin": 230,
+    "salaryMax": 260,
+    "shift": false,
+    "commuteMinFromCampus": 40,
+    "weekendWork": false,
+    "requiredSkills": ["SNS 운영", "영상 편집"],
+    "benefitIds": ["B-02"],
+    "explanations": {
+      "job": "지역 행사와 연계해 음료 브랜드를 알리는 캠페인을 기획해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 청년 교통비 지원 대상이에요.",
+      "conditions": "평일 근무가 기본이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "캠페인 영상을 만들고 채널을 운영해서 SNS 운영과 영상 편집 역량을 봐요."
+    }
+  },
+  {
+    "id": "J-029",
+    "company": "거두테크(가상)",
+    "jobFamily": "IT",
+    "title": "스마트팩토리 설비 제어 보조",
+    "salaryMin": 240,
+    "salaryMax": 270,
+    "shift": true,
+    "commuteMinFromCampus": 30,
+    "weekendWork": false,
+    "requiredSkills": ["파이썬", "전기 기초"],
+    "benefitIds": ["B-03"],
+    "explanations": {
+      "job": "공장 자동화 설비의 제어 프로그램을 점검하고 설비 데이터를 수집해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이며, 중소기업 청년 근속 장려금 대상이에요.",
+      "conditions": "평일 교대로 설비를 지원하고 주말은 쉬어요. 대학가에서 약 {commute}분 거리예요.",
+      "skills": "데이터 수집 스크립트와 전기 배선을 함께 다뤄서 파이썬과 전기 기초가 필요해요."
+    }
+  },
+  {
+    "id": "J-030",
+    "company": "거두테크(가상)",
+    "jobFamily": "영업",
+    "title": "부품 소싱·수출 영업",
+    "salaryMin": 230,
+    "salaryMax": 260,
+    "shift": false,
+    "commuteMinFromCampus": 30,
+    "weekendWork": false,
+    "requiredSkills": ["중국어", "엑셀"],
+    "benefitIds": ["B-01"],
+    "explanations": {
+      "job": "해외 협력사에서 부품을 조달하고 완제품 수출 일정을 관리해요.",
+      "salary": "월 {salaryMin}~{salaryMax}만원이고, 청년 주거비 지원을 함께 받을 수 있어요.",
+      "conditions": "평일 주간 근무이고, 대학가에서 약 {commute}분 거리예요.",
+      "skills": "해외 협력사와 직접 소통하고 단가표를 관리해서 중국어와 엑셀이 필요해요."
+    }
+  }
+]
